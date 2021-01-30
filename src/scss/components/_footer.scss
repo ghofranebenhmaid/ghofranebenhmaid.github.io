@@ -1,0 +1,40 @@
+.footer {
+   background-color: $black;
+   color: $white;
+   position: sticky;
+   bottom: 0;
+}
+.box {
+   width: $desktop;
+   max-width: 60%;
+   padding: 60px 0px;
+   margin: 0 auto;
+   .wrapper {
+      display: flex;
+      flex-direction: column;
+      @media (max-width: $laptop) {
+         margin-bottom: 20px;
+      }
+   }
+   &__logo {
+      font-size: 18px;
+      font-weight: 800;
+   }
+   &__socialmedia {
+      a {
+         font-size: 18px;
+         color: $white;
+         margin-right: 10px;
+      }
+   }
+   span {
+      margin-top: 10px;
+   }
+}
+.box--container {
+   display: flex;
+   justify-content: space-between;
+
+   flex-wrap: wrap;
+   font-weight: 500;
+}

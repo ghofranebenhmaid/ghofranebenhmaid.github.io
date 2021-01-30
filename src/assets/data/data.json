@@ -1,0 +1,141 @@
+{
+   "hero-1": {
+      "title": "Master the front-end with finesse",
+      "description": "The assignment is supposed to be executed as simple as possible. Code the template in HTML/CSS and try to avoid 3. party frameworks as much as possible. Creating the page with React components will grant extra megamate bonus points.",
+      "href": "#tiles",
+      "appearances": {
+         "inner-width": "normal",
+         "href-block": true,
+         "color-scheme": "primary"
+      }
+   },
+   "repositories": [
+      {
+         "title": "Chat App",
+         "image": "https://raw.githubusercontent.com/ghofranebenhmaid/chat-app-css-illustration/main/design/desktop-preview.jpg",
+         "type": "Project",
+         "href": "https://github.com/ghofranebenhmaid/chat-app-css-illustration"
+      },
+      {
+         "title": "Room Homepage",
+         "image": "https://raw.githubusercontent.com/ghofranebenhmaid/room-homepage/main/design/desktop-preview.jpg",
+         "type": "Project",
+         "href": "https://github.com/ghofranebenhmaid/room-homepage"
+      },
+      {
+         "title": "Testimonials Grid Section",
+         "image": "https://raw.githubusercontent.com/ghofranebenhmaid/testimonials-grid-section/main/design/desktop-preview.jpg",
+         "type": "Project",
+         "href": "https://github.com/ghofranebenhmaid/testimonials-grid-section"
+      },
+      {
+         "title": "Rest Countries",
+         "image": "https://raw.githubusercontent.com/ghofranebenhmaid/rest-countries/main/design/desktop-preview.jpg",
+         "type": "Project",
+         "href": "https://github.com/ghofranebenhmaid/rest-countries"
+      }
+   ],
+   "tiles": [
+      {
+         "title": "Treasure Hunt",
+         "image": "https://bitbucket.org/ghofranebenhmaid/ghofrane.dev/raw/91832b79902169b4dd878b33425a4394df91a26f/src/assets/images/treasureHunt.png",
+         "image-alt": "Treasure Hunt",
+         "description": "Final project in HackYourFuture. A Treasure Hunt game for kids, developed with an idea from CodeArt during an 8-week period, where we planned, designed, developed and deployed the game using Reactjs.",
+         "date": "29 August 2019",
+         "author": "Jams Bonham",
+         "author-href": "#",
+         "type": "Project",
+         "href": "https://github.com/ghofranebenhmaid/fp-class12",
+         "language": [
+            "HTML",
+            "CSS",
+            "Nodejs",
+            "React"
+         ]
+      },
+      {
+         "title": "mealinfo:",
+         "image": "https://bitbucket.org/ghofranebenhmaid/ghofrane.dev/raw/91832b79902169b4dd878b33425a4394df91a26f/src/assets/images/mealshering.png",
+         "image-alt": "meal info",
+         "description": "",
+         "date": "18 August 2020",
+         "author": "M!kkel Rommelhoff",
+         "author-href": "#",
+         "type": "Project",
+         "href": "https://github.com/ghofranebenhmaid/mealinfo",
+         "language": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Nodejs/Express",
+            "JavaScript"
+         ]
+      },
+      {
+         "title": "Shopping Cart",
+         "image": "https://bitbucket.org/ghofranebenhmaid/ghofrane.dev/raw/91832b79902169b4dd878b33425a4394df91a26f/src/assets/images/iMac-Screen-1.png",
+         "image-alt": "Shopping Cart",
+         "description": "",
+         "date": "3 Feburary 2020",
+         "author": "",
+         "author-href": "",
+         "type": "Another project",
+         "href": "https://github.com/ghofranebenhmaid/Projects/tree/master/ShoppingCart",
+         "language": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Nodejs/Express",
+            "JavaScript"
+         ]
+      }
+   ],
+   "hero-2": {
+      "title": "Your chance",
+      "subtitle": "Get on the skill train now",
+      "description": "The assignment must be delivered as a pull request to the assignment repository and we appreciate running commits so we can see how you go from our small layout to a final awesome product.",
+      "href": "#",
+      "appearances": {
+         "inner-width": "narrow",
+         "color-scheme": "secondary"
+      }
+   },
+   "banner": {
+      "title": "Red Arrows",
+      "subtitle": "#extra",
+      "author": "Pil Damgaard",
+      "year": "2018",
+      "description": "This section is actually a little extra that can be added if you feel confident while working and the time aint sprinting.",
+      "href_description": "#",
+      "href": "imagewide",
+      "image": "https://raw.githubusercontent.com/rommel-dk/front-end-test/master/assignment-assets/images/banner.jpg",
+      "image-alt": "This banner is for real",
+      "appearances": {
+         "color-scheme": "secondary",
+         "href-block-next": "imagewide"
+      }
+   },
+   "imagewide": {
+      "title": "",
+      "image": "https://raw.githubusercontent.com/rommel-dk/front-end-test/master/assignment-assets/images/image-full-width.png",
+      "image-alt": "Find us at the center of the universe",
+      "href": "",
+      "appearances": {
+         "href-block": false,
+         "color-scheme": "primary"
+      }
+   },
+   "imagetext": {
+      "title": "We use tools like NPM/Gulp/Webpack to preprocess files and PostCSS for some mean, lean, killing machine code and React JS is taking over WordPress one step at a time. ",
+      "image": "https://raw.githubusercontent.com/rommel-dk/front-end-test/master/assignment-assets/images/text-media-right.png",
+      "image-alt": "Find us at the center of the universe",
+      "href": "https://github.com/rommel-dk/front-end-test/compare",
+      "href-text": "Pull request",
+      "href-text-alt": "Don\u2019t be shy to commit",
+      "appearances": {
+         "href-block": false,
+         "color-scheme": "secondary",
+         "position-text": "left"
+      }
+   }
+}

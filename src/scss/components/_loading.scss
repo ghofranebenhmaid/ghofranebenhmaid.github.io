@@ -1,0 +1,11 @@
+.loading {
+   width: 100vw;
+   height: 100vh;
+   background-color: $black;
+   &__text {
+      color: $white;
+      p {
+         font-size: 14px;
+      }
+   }
+}
